@@ -1,0 +1,2 @@
+beginner_tutorials:mobrob:mobrob_util
+-DCATKIN_DEVEL_PREFIX=/home/carter/repos/ME439/ros_tutorials/devel -DCMAKE_INSTALL_PREFIX=/home/carter/repos/ME439/ros_tutorials/install -G Unix Makefiles

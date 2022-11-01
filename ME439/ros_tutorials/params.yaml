@@ -1,0 +1,18 @@
+my_turtle:
+  background_b: 255
+  background_g: 86
+  background_r: 150
+rosdistro: 'noetic
+
+  '
+roslaunch:
+  uris:
+    host_carter_xps_15__36053: http://carter-XPS-15:36053/
+rosversion: '1.15.14
+
+  '
+run_id: ca6e46c6-82b2-11ec-a140-5dae14c6ea52
+turtlesim:
+  background_b: 255
+  background_g: 86
+  background_r: 150
